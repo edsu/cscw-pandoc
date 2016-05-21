@@ -2,7 +2,7 @@ This repository contains the [CSCW 2017 LaTeX templates] that have been adjusted
 to be used with [Pandoc Markdown] and your [BibTeX] file.
 
 If you have some writing in Pandoc Markdown and you want to generate a CSCW
-paper you can replace paper.md with your own work, and then:
+paper you can replace [paper.md] with your own work, and then:
 
     make
 
@@ -18,8 +18,8 @@ sure you've got these things installed using [tlmgr]:
 [CSCW 2017 LaTeX tem''plates]: https://cscw.acm.org/2017/submit/sigchi-latex-proceedings.tar.gz
 [Pandoc Markdown]: http://pandoc.org/README.html#pandocs-markdown
 [BibTeX]: https://en.wikipedia.org/wiki/BibTeX
-[paper.md]: http://example.com
-[paper.pdf]: http://example.com
+[paper.md]: https://raw.githubusercontent.com/edsu/cscw-pandoc/master/paper.md
+[paper.pdf]: https://github.com/edsu/cscw-pandoc/blob/master/paper.pdf
 [tlmg]: https://www.tug.org/texlive/tlmgr.html
 [MaxTeX]: https://tug.org/mactex/
 [BasicTeX]: http://www.tug.org/mactex/morepackages.html
