@@ -24,5 +24,5 @@ If you have any adjustments please add an issue or send a pull request.
 [paper.md]: https://raw.githubusercontent.com/edsu/cscw-pandoc/master/paper.md
 [paper.pdf]: https://github.com/edsu/cscw-pandoc/blob/master/paper.pdf
 [tlmgr]: https://www.tug.org/texlive/tlmgr.html
-[MaxTeX]: https://tug.org/mactex/
+[MacTeX]: https://tug.org/mactex/
 [BasicTeX]: http://www.tug.org/mactex/morepackages.html
