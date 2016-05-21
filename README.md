@@ -15,7 +15,7 @@ sure you've got these things installed using [tlmgr]:
 
     tlmgr install tex4ht helvetic preprint txfonts ccicons todonotes courier
 
-[CSCW 2017 LaTeX tem''plates]: https://cscw.acm.org/2017/submit/sigchi-latex-proceedings.tar.gz
+[CSCW 2017 LaTeX templates]: https://cscw.acm.org/2017/submit/sigchi-latex-proceedings.tar.gz
 [Pandoc Markdown]: http://pandoc.org/README.html#pandocs-markdown
 [BibTeX]: https://en.wikipedia.org/wiki/BibTeX
 [paper.md]: https://raw.githubusercontent.com/edsu/cscw-pandoc/master/paper.md
