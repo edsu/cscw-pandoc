@@ -1,5 +1,6 @@
-This repository contains the [CSCW 2017 LaTeX template] that have been adjusted
-to be used with [Pandoc Markdown] and your [BibTeX] file.
+This repository contains the [CSCW 2017 LaTeX template] that has been slightly
+adjusted so that it can be used with a [Pandoc Markdown] and your own [BibTeX] 
+file to generate a PDF.
 
 If you have some writing in Pandoc Markdown and you want to generate a CSCW
 PDF you can replace [paper.md] with your own work, and then:
