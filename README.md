@@ -16,11 +16,13 @@ sure you've got these things installed using [tlmgr]:
 
     tlmgr install tex4ht helvetic preprint txfonts ccicons todonotes courier
 
+If you have any adjustments please add an issue or send a pull request.
+
 [CSCW 2017 LaTeX template]: https://cscw.acm.org/2017/submit/sigchi-latex-proceedings.tar.gz
 [Pandoc Markdown]: http://pandoc.org/README.html#pandocs-markdown
 [BibTeX]: https://en.wikipedia.org/wiki/BibTeX
 [paper.md]: https://raw.githubusercontent.com/edsu/cscw-pandoc/master/paper.md
 [paper.pdf]: https://github.com/edsu/cscw-pandoc/blob/master/paper.pdf
-[tlmg]: https://www.tug.org/texlive/tlmgr.html
+[tlmgr]: https://www.tug.org/texlive/tlmgr.html
 [MaxTeX]: https://tug.org/mactex/
 [BasicTeX]: http://www.tug.org/mactex/morepackages.html
