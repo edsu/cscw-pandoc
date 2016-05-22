@@ -1,6 +1,6 @@
 ---
 title: Testing the CSCW TeX Files
-subtitle: Playing around with Pandoc and Markdown
+subtitle: Using Pandoc and Markdown
 author:
 - name: Test McTest
   email: test@test.edu
