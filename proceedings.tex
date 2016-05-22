@@ -31,6 +31,7 @@
 \usepackage{booktabs}
 \usepackage{ccicons}
 \usepackage{todonotes}
+\usepackage[inline]{enumitem}
 
 % llt: Define a global style for URLs, rather that the default one
 \makeatletter
@@ -96,16 +97,24 @@ $abstract$
 \end{abstract}
 $endif$
 
-$if(keywords)$
-\begin{keywords}
-$keywords$
-\end{keywords}
+$if(keyword)$
+\keywords{
+  \begin{itemize*}[itemjoin={{; }}, afterlabel={}]
+  $for(keyword)$
+    \item[] $keyword$
+  $endfor$
+  \end{itemize*}
+}
 $endif$
 
-\category{H.5.m.}{Information Interfaces and Presentation
-  (e.g. HCI)}{Miscellaneous} \category{See
-  \url{http://acm.org/about/class/1998/} for the full list of ACM
-  classifiers. This section is required.}{}{}
+$if(category)$
+  \section*{ACM Classification Keywords}
+  \begin{itemize*}[itemjoin={{; }}, afterlabel={}]
+  $for(category)$
+    \item[] $category$
+  $endfor$
+  \end{itemize*}
+$endif$
 
 $body$
 

@@ -1,6 +1,6 @@
 ---
 title: Testing the CSCW TeX Files
-subtitle: Playing around with Pandoc
+subtitle: Playing around with Pandoc and Markdown
 author:
 - name: Test McTest
   email: test@test.edu
@@ -13,7 +13,13 @@ abstract:
   consequuntur, nam sumo simul vidisse eu. Est everti erroribus abhorreant no,
   velit definitiones duo ut, vis appareat perfecto eu. Nam enim iisque recusabo
   te. Ne elitr homero eum, iusto molestie vim no.
-keywords: "one; two; three"
+keyword: 
+- TeX 
+- Pandoc
+- Markdown
+category:
+- "H.5.m. Information Interfaces and Presentation (e.g. HCI): Miscellaneous"
+- "See http://acm.org/about/class/1998/ for the full list of ACM classifiers.  This section is required."
 
 ---
 
@@ -53,7 +59,7 @@ electram intellegat ex sea, ex duo nihil detracto scaevola. Cum cu perfecto
 nominati vituperata, eum ne graece quodsi. Est viris voluptaria ad, modo vidit
 persius ne sit, ut illum adolescens vel.
 
-#  Bakground
+#  Background
 
 Ne vix solet praesent disputando, blandit efficiendi sed ne. No clita virtute
 corrumpit his, ex nam tempor eloquentiam, sanctus voluptatum an qui. Cu homero
