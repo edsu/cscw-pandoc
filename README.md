@@ -14,7 +14,7 @@ be found in this repository.
 If you are using [MacTeX] and went with the smaller [BasicTeX] install make 
 sure you've got these things installed using [tlmgr]:
 
-    tlmgr install tex4ht helvetic preprint txfonts ccicons todonotes courier
+    tlmgr install enumitem tex4ht helvetic preprint txfonts ccicons todonotes courier
 
 If you have any adjustments please add an issue or send a pull request.
 
