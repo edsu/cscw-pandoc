@@ -5,7 +5,7 @@ author:
 - name: Test McTest
   email: test@test.edu
   affiliation: University of Test
-- name: Test Smith-Test
+- name: Test Test-Testy
   email: test@test.com
   affiliation: Test Incorporated
 abstract:
